@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+div{
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    border: 2px solid black;
+    display: flex;
+    
+    
+   
+
+}
+#container{
+    width:800px;
+    height:200px;
+    flex-direction:column;
+    justify-content: flex-start;
+    
+    
+    
+   
+}
+
+#box1{
+    background-color: blue;
+}
+#box2{
+    background-color: brown;
+}
+#box3{
+    background-color: blueviolet;
+}
+#box4{
+    background-color: chocolate;
+}
+#box5{
+    background-color: crimson;
+}
